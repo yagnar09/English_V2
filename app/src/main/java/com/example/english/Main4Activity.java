@@ -26,7 +26,7 @@ public class Main4Activity extends AppCompatActivity {
     String quizData[][] = {
 
             {"white", "white", "green", "blue", "yellow"},
-            {"red", "red", "black", "orange", "it's a pen"},
+            {"red", "red", "black", "orange", "brown"},
             {"green", "green", "white", "blue", "yellow"},
             {"blue", "blue", "red", "black", "orange"},
             {"yellow", "yellow", "green", "white", "purple"},
